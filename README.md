@@ -107,6 +107,8 @@ Accordingly, if a data object (an instance of class A) that his master could be 
 [!A typeusage](flexberry-designer-online005.png)
 
 
+![A typeusage](/flexberry-designer-online005.png)
+
 
 
 
