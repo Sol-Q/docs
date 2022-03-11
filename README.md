@@ -131,20 +131,21 @@ The class whose multiplicity is equal to 1 (in rare cases 0..1 for an associatio
 
 ## Limitations when constructing class diagrams
 1. Detail of any level cannot be the heir of a master class, since in such a case the object of the heir must include itself
-![Example of the limitations of charts 1](/flexberry-designer-online001.png)
+![Example of the limitations of charts 1](/images/Doxabeta-Neo-Online001.png)
 
 2. The heir from the detail class cannot be the detail of the heir of the master class.
 
-![Example restrictions chart 2](/flexberry-designer-online002.png)
+![Example restrictions chart 2](/images/Doxabeta-Neo-Online002.png)
 
 3. You cannot do loops in inheritance
 
-![Example constraint diagrams 3](/flexberry-designer-online003.png)
+![Example constraint diagrams 3](/images/Doxabeta-Neo-Online003.png)
 
 4. You cannot inherit a class from more than one class (a class may have many heirs but only one parent).
 
-![Example constraint diagrams 4](/flexberry-designer-online004.png)
+![Example constraint diagrams 4](images/Doxabeta-Neo-Online004.png)
 
 
 
 ### Code Generation
+
