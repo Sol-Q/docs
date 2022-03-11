@@ -10,7 +10,7 @@ Activity on the chart are “scattered” on the treadmill, each of which corres
 In the diagram of activities you can display the following elements of UML notation that are available in the Toolbox:
 
 Element/Notation | Purpose
-
+:------------------------------------------------------------------|:--------------------------------------------
 ![Example](/Diagrams/decision.jpg) | decision (Decision)
 ![Example](/Diagrams/activeobject1.jpg) | Active state (Active state)
 ![Example](/Diagrams/startstate.jpg) | Initial state (Start state)
