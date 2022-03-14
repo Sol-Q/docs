@@ -67,7 +67,7 @@ The class whose multiplicity is equal to 1 (in rare cases 0..1 for an associatio
 
 4. You cannot inherit a class from more than one class (a class may have many heirs but only one parent).
 
-![Example constraint diagrams 4](images/Doxabeta-Neo-Online004.png)
+![Example constraint diagrams 4](/images/Doxabeta-Neo-Online004.png)
 
 
 
