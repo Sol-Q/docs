@@ -1,10 +1,10 @@
+## Features of building a class diagram
 
 * The elements used to build class diagrams, described on page class Diagram (Class diagram).
 * Working with the editor of class diagrams is given in relevant article
 
 ## Features of Building classes
 ![](/Diagrams/structure-of-class.png) 
-
 
 The General structure of the class is shown in the figure above.
 
@@ -20,7 +20,6 @@ The need to pay special attention to:
 
 ## Recommendations for drawing class diagrams
 There are recommendations for drawing a class diagram:
-
 
 * The direction of the relationship 
     * Master associations are drawn "sideways". 
