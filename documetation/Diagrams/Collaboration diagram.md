@@ -1,5 +1,8 @@
 **Collaboration diagram** - It is one of the available kinds of graphs supported by Doxabeta Neo.
 
+![Example](/Diagrams/Collaboration.png)
+
+
 
 
 Cooperation (collaboration) is a static design to simulate a set of entities interacting with each other. Cooperation defines a set of cooperating roles used together to show some functionality.
