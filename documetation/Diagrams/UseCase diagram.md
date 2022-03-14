@@ -1,7 +1,6 @@
-Diagram of use cases - one of the available kinds of graphs supported Doxabeta Neo.
+UseCase diagram - is one of the available kinds of graphs supported Doxabeta Neo.
 
 ![Example](/Diagrams/Use-case-diagram.png)
-
 
 The main elements of the chart - participant (actor) and precedent (option).
 
