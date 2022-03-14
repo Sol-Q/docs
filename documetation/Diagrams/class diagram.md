@@ -7,8 +7,6 @@ The main features of building classes are  provided in the following articles:
 
 * [The key concepts of object-oriented framework for application systems, developed in doxabeta neo](keyConcepts.md).
 
-The key concepts of object-oriented framework for application systems, developed in doxabeta Neo.
-Features of construction of the class diagram.
 
 ## Specific features of class diagrams
 Main features when working with the diagram provided in the article Editor UML diagrams.
