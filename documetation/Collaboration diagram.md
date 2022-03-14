@@ -14,7 +14,7 @@ Element/Notation | Purpose
 ![Example](/Diagrams/activeobject.jpg) | the Active object (Active object)
 ![Example](/Diagrams/naryassoc.jpg) | N-ary Association (N-ary association)
 ![Example](/Diagrams/designpatt.jpg) | Pattern (Design pattern)
-![Example](/Diagrams/designpatt.jpg) | Connector pattern (Design pattern connector)
+![Example](/Diagrams/designpattconn.jpg) | Connector pattern (Design pattern connector)
 ![Example](/Diagrams/naryconn.jpg) | Connector n-ary Association (N-ary association connector)
 ![Example](/Diagrams/assoc.jpg) | Association (Association)
 ![Example](/Diagrams/qlink.jpg) | Association Qualified (Qualified link)
