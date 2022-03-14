@@ -3,7 +3,7 @@
 * The elements used to build class diagrams, described on page class Diagram (Class diagram).
 * Working with the editor of class diagrams is given in relevant article
 
-## Features of Building classes
+## Features of building classes
 ![](/Diagrams/structure-of-class.png) 
 
 The General structure of the class is shown in the figure above.
