@@ -3,8 +3,6 @@
 ![Example](/Diagrams/Collaboration.png)
 
 
-
-
 Cooperation (collaboration) is a static design to simulate a set of entities interacting with each other. Cooperation defines a set of cooperating roles used together to show some functionality.
 
 In the collaboration diagram, you can display the following elements of UML notation that are available in the Toolbox:
