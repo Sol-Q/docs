@@ -6,6 +6,7 @@ The class diagram is a key element of the UML diagram editor sice applications a
 The main features of building classes are  provided in the following articles:
 
 * [The key concepts of object-oriented framework for application systems, developed in doxabeta neo](keyConcepts.md).
+* [Features of construction of the class diagram](features-of-class-diagram.md).
 
 
 ## Specific features of class diagrams
