@@ -1,7 +1,9 @@
 * Step 1:
 Before user gets access to the doxabeta neo, first the user must register. User can register with his email and full name. Please do not forget to select the option “I’m not a robot” This is the link for registration. (http://designer.flexberry.net/#/login-or-register?goto=index) and below is an example of the interface.
 
-![Example](/Diagrams/doxabeta neo- registration.png)
+
+![A typeusage](/Diagrams/doxabeta-neo-registration.png)
+![Example of the interface](Diagrams/doxabeta-neo-registration.png)
 
 * Step 2: 
 After successfully registering. User can log in with the email used for the registration and the password which was automatically sent to your email. This is the interface when you log in
