@@ -3,6 +3,7 @@ Before user gets access to the doxabeta neo, first the user must register. User 
 
 
 ![A typeusage](/Diagrams/doxabeta-neo-registration.png)
+
 ![Example of the interface](Diagrams/doxabeta-neo-registration.png)
 
 * Step 2: 
