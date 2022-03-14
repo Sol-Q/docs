@@ -54,4 +54,5 @@ The heir from the child cannot be the child of the heir of the hat.
 
 ## However
 Such a situation is possible:
+
 ![](/Diagrams/examples/lookup-as-master.png) 
