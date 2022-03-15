@@ -20,7 +20,7 @@ Elements/Notation | Purpose
 ![Example](/Diagrams/concstate.jpg) | Concurrent state
 ![Example](/Diagrams/history.jpg) | History
 ![Example](/Diagrams/historydeep.jpg) | History Deep
-![Example](/Diagrams/startstate.png) | Start state
+![Example](/Diagrams/startstate.jpg) | Start state
 ![Example](/Diagrams/finalstate.jpg) | Final state
 ![Example](/Diagrams/complextransition.jpg)![Example](/Diagrams/complextransition_ver.jpg) | Splitter (Complex transition)
 ![Example](/Diagrams/transition.jpg) | Transition 
