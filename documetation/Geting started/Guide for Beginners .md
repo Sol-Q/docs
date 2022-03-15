@@ -1,3 +1,5 @@
+## Guide for beginners 
+
 * Step 1:
 Before user gets access to the doxabeta neo, first the user must register. User can register with his email and full name. Please do not forget to select the option “I’m not a robot” This is the link for registration. (http://designer.flexberry.net/#/login-or-register?goto=index) and below is an example of the interface
 
@@ -6,7 +8,7 @@ Before user gets access to the doxabeta neo, first the user must register. User 
 * Step 2:  
 After successfully registering. User can log in with the email used for the registration and the password which was automatically sent to your email. This is how the interface looks like when you log in
 
-![A typeusage](/Diagrams/doxabeta-neo-after-login.png)
+![A typeusage](/Diagrams/doxabeta-neo-after-registering.png)
 
 * Step 3:
 You select all projects, then create Project. You fill the field with your project name and then select create project.
