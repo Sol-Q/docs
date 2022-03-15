@@ -24,25 +24,25 @@ On the class diagram, you can display the following elements of UML notation tha
 
 Element/Notation | Purpose
 :------------------------------|:---------------------------------------
-![Example](/Diagrams/assoc.jpg) | [Association](fd_master-association.html) (Association)
-![Example](/Diagrams/aggregation.jpg) | Aggregation (Aggregation)
-![Example](/Diagrams/composition.jpg) | [Composition](fo_detail-associations-properties.html) (Composition)
-![Example](/Diagrams/inheritance.jpg) | [Inheritance](fd_inheritance.html)/generalization (Inheritance/generalization)
+![Example](/Diagrams/assoc.jpg) | Association
+![Example](/Diagrams/aggregation.jpg) | Aggregation 
+![Example](/Diagrams/composition.jpg) | Composition
+![Example](/Diagrams/inheritance.jpg) | Inheritance/generalization
 ![Example](/Diagrams/implement.jpg) | Implementation (Realization)
 ![Example](/Diagrams/nested.jpg) | Association nested class (Nested class association)
-![Example](/Diagrams/class.jpg) | Class (Class)
-![Example](/Diagrams/templateclass.jpg) | the template Class (Template class)
+![Example](/Diagrams/class.jpg) | Class
+![Example](/Diagrams/templateclass.jpg) | Template class
 ![Example](/Diagrams/instance.jpg) | class Instance (instance)
-![Example](/Diagrams/activeobject.jpg) | the Active object (Active object)
-![Example](/Diagrams/multiobject.jpg) | Multiobject (Multiobject)
+![Example](/Diagrams/activeobject.jpg) | Active object
+![Example](/Diagrams/multiobject.jpg) | Multiobject
 ![Example](/Diagrams/object.jpg) | Object (Property object)
-![Example](/Diagrams/naryassoc.jpg) | N-ary Association (N-ary association)
-![Example](/Diagrams/naryconn.jpg) | Connector n-ary Association (N-ary association connector)
-![Example](/Diagrams/qcomposition.jpg) | Qualified composition (composition Qualified link)
-![Example](/Diagrams/qaggregation.jpg) | Qualified aggregation (Qualified link aggregation)
-![Example](/Diagrams/moreclasses.jpg) | More classes (More classes)
+![Example](/Diagrams/naryassoc.jpg) | N-ary Association
+![Example](/Diagrams/naryconn.jpg) | N-ary association connector
+![Example](/Diagrams/qcomposition.jpg) | Composition Qualified link
+![Example](/Diagrams/qaggregation.jpg) | Qualified link aggregation
+![Example](/Diagrams/moreclasses.jpg) | More classes
 ![Example](/Diagrams/dependency.jpg) | Addiction (Dependency)
-![Example](/Diagrams/package.jpg) | Package (Package)
+![Example](/Diagrams/package.jpg) | Package
 ![Example](/Diagrams/corner.jpg) | Point of bending of the links (Point)
 ![Example](/Diagrams/note.jpg) | Comment (Note)
-![Example](/Diagrams/noteconn.jpg) | Connector review (Note the connector)
+![Example](/Diagrams/noteconn.jpg) | Note the connector
