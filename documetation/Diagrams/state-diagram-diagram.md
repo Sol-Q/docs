@@ -2,7 +2,7 @@
 
 **Statechart diagram** is one of the available types of diagrams supported by Doxabeta Neo.
 
-![Example](/images/pages/products/flexberry-designer/diagram/statechart-diagram.png)
+![Example](/Diagrams/state-diagram.png)
 
 
 
@@ -13,20 +13,20 @@ The following UML notation elements available in the elements panel can be displ
 
 Elements/Notation | Purpose
 :-----------------------------------------|:-------------------------------------------------------
-![Example](/Diagrams/instance.jpg) | Class)
-![Example](/Diagrams/state.jpg) | State)
-![Example](/Diagrams/stateex.jpg) | StateEx)
-![Example](/Diagrams/statecomposite.jpg) | State composite)
-![Example](/Diagrams/concstate.jpg) | Concurrent state)
-![Example](/Diagrams/history.jpg) | History)
-![Example](/Diagrams/historydeep.jpg) | History Deep)
-![Example](/Diagrams/startstate.png) | Start state)
-![Example](/Diagrams/finalstate.jpg) | Final state)
+![Example](/Diagrams/instance.jpg) | Class
+![Example](/Diagrams/state.jpg) | State
+![Example](/Diagrams/stateex.jpg) | StateEx
+![Example](/Diagrams/statecomposite.jpg) | State composite
+![Example](/Diagrams/concstate.jpg) | Concurrent state
+![Example](/Diagrams/history.jpg) | History
+![Example](/Diagrams/historydeep.jpg) | History Deep
+![Example](/Diagrams/startstate.png) | Start state
+![Example](/Diagrams/finalstate.jpg) | Final state
 ![Example](/Diagrams/complextransition.jpg)![Example](/Diagrams/complextransition_ver.jpg) | Splitter (Complex transition)
-![Example](/Diagrams/transition.jpg) | Transition )
-![Example](Diagrams/eventmessage.jpg) | Event message)
-![Example](/Diagrams/corner.jpg) | Point)
-![Example](/Diagrams/note.jpg) | Note )
-![Example](/Diagrams/noteconn.jpg) | Note connector )
+![Example](/Diagrams/transition.jpg) | Transition 
+![Example](/Diagrams/eventmessage.jpg) | Event message
+![Example](/Diagrams/corner.jpg) | Point
+![Example](/Diagrams/note.jpg) | Note 
+![Example](/Diagrams/noteconn.jpg) | Note connector
 
 
