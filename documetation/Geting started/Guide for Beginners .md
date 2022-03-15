@@ -40,7 +40,7 @@ To generate your application, you need to select “Generation” from the menu 
 * Step 9: 
 On the GitHub account, there will be source code for the backend and frontend. You can clone the repository to your local machine. Flexberry platform also generates a docker file to run your application on a local machine. Example of how the Flexberry platform generates source code for applications on GitHub is like the below picture
 
-![A typeusage](/Diagrams/doxabeta-neo-generation.png)
+![A typeusage](/Diagrams/doxabeta-neo-github-page.png)
 
 * Step 10:
 The src file contains a Docker file, generated Database (SQL), the backend application and the frontend application.
