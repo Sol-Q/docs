@@ -2,7 +2,7 @@
 
 ### About Doxabeta Neo
 
-**DoxaBeta Neo** is a case tool used for business modeling (analysis of business-processes, reengineering of business processes) and object-oriented design of software and databases. DoxaBeta Neo is a [product of DoxaBeta](https://doxabeta.com/).
+**DoxaBeta Neo** is a case tool used for business modeling (analysis of business-processes, reengineering of business processes) and object-oriented design of software and databases. DoxaBeta Neo is a [product of Doxabeta](https://doxabeta.com/).
 
 
 ### Quick Start
